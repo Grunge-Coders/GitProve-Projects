@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgit_prove_projects=self.webpackChunkgit_prove_projects||[]).push([[558],{335:e=>{e.exports=JSON.parse('{"label":"projects","permalink":"/blog/tags/projects","allTagsPath":"/blog/tags","count":1}')}}]);

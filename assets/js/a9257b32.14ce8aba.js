@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgit_prove_projects=self.webpackChunkgit_prove_projects||[]).push([[780],{3578:e=>{e.exports=JSON.parse('{"label":"community","permalink":"/GitProve-Projects/blog/tags/community","allTagsPath":"/GitProve-Projects/blog/tags","count":1}')}}]);
