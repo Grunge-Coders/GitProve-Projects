@@ -2,46 +2,39 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# GitProve Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to **GitProve: Where Builders Meet**. Dive deep into a community-driven platform that fosters collaboration, learning, and showcasing.
 
-## Getting Started
+## Embarking on the GitProve Journey
 
-Get started by **creating a new site**.
+Begin your journey by **setting up your profile** and **submitting your first project**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Or **explore GitProve's vast array of projects** and join one that piques your interest.
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- A [GitHub Account](https://github.com/join) to participate and submit projects.
+- Passion for learning, building, and sharing.
 
-## Generate a new site
+## Joining the GitProve Community
 
-Generate a new Docusaurus site using the **classic template**.
+To be a part of GitProve, follow these steps:
 
-The classic template will automatically be added to your project after you run the command:
+1. **Star and Fork** the GitProve repository.
+2. Set up your profile by adding a brief introduction and your skills.
+3. Browse through the list of projects or submit your own.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+The detailed guidelines for project submission can be found in the `CONTRIBUTING.md` file in the repository.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Engage and Collaborate
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Once you're a part of a project:
 
-## Start your site
+1. Clone the repository to your local machine.
+2. Set up the development environment as per the project's `README.md`.
+3. Start building, learning, and collaborating.
 
-Run the development server:
+Remember, every week, we have a **Show & Tell** session where projects are showcased. Be ready to present your work, share your experiences, and gather feedback.
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Dive into `docs/getting-started.md` for a detailed guide on how to make the most of GitProve.
