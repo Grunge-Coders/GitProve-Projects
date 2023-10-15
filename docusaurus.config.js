@@ -18,8 +18,10 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'GitProve',
-  projectName: 'GitProve-Projects',
+  projectName: 'GitProve-Projects.github.io',
+  organizationName: 'Git-Prove',
+  trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
