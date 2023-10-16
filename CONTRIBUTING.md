@@ -1,4 +1,4 @@
-xx# Contributing to GitProve
+# Contributing to GitProve
 
 First and foremost, thank you for considering contributing to GitProve! We value every contribution, whether it's submitting a new project, improving documentation, or fixing bugs. This document provides guidelines to ensure smooth collaboration and contributions.
 
