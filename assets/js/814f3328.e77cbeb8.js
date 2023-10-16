@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgit_prove_projects=self.webpackChunkgit_prove_projects||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to GitProve","permalink":"/GitProve-Projects/blog/welcome-to-gitprove"}]}')}}]);

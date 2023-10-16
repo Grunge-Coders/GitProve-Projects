@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.gitprove.xyz/GitProve-Projects/blog</id>
+    <id>https://www.gitprove.xyz/blog</id>
     <title>GitProve Blog</title>
     <updated>2023-10-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.gitprove.xyz/GitProve-Projects/blog"/>
+    <link rel="alternate" href="https://www.gitprove.xyz/blog"/>
     <subtitle>GitProve Blog</subtitle>
-    <icon>https://www.gitprove.xyz/GitProve-Projects/img/favicon.ico</icon>
+    <icon>https://www.gitprove.xyz/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome to GitProve]]></title>
-        <id>https://www.gitprove.xyz/GitProve-Projects/blog/welcome-to-gitprove</id>
-        <link href="https://www.gitprove.xyz/GitProve-Projects/blog/welcome-to-gitprove"/>
+        <id>https://www.gitprove.xyz/blog/welcome-to-gitprove</id>
+        <link href="https://www.gitprove.xyz/blog/welcome-to-gitprove"/>
         <updated>2023-10-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to GitProve, a unique platform where IT enthusiasts come together to build, learn, and share. We're thrilled to have you here and can't wait to see the incredible projects and collaborations that will emerge from this community.]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to <strong>GitProve</strong>, a unique platform where IT enthusiasts come together to build, learn, and share. We're thrilled to have you here and can't wait to see the incredible projects and collaborations that will emerge from this community.</p><p>Adding your projects or joining existing ones is as simple as contributing to our GitHub repository. Just add your markdown files to the <code>projects</code> directory, and they'll be showcased here for everyone to see, discuss, and collaborate on.</p><p>We believe in the power of community-driven development. Regular contributors and project leads can be added to <code>authors.yml</code>, giving them a special place in our community's hall of fame.</p><p>Our platform is designed to be intuitive and straightforward. For instance, the date of a blog post or project update can be easily inferred from filenames, like:</p><ul><li><code>2023-10-15-new-feature.md</code></li><li><code>2023-10-15-new-feature/index.md</code></li></ul><p>And if you're wondering about adding visuals to your posts, it's a breeze! If you're writing about a project or feature, simply add relevant images to the post's folder:</p><p><img loading="lazy" alt="GitProve Logo" src="/GitProve-Projects/assets/images/gitprove-logo-3e999de344fe54faa910dad108ba0583.png" width="1024" height="1024" class="img_ev3q"></p><p>We're also big fans of tags! They help categorize and navigate through the plethora of projects and discussions we'll have here.</p><p>Thank you for being a part of GitProve. Together, let's craft, converse, and evolve.</p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <strong>GitProve</strong>, a unique platform where IT enthusiasts come together to build, learn, and share. We're thrilled to have you here and can't wait to see the incredible projects and collaborations that will emerge from this community.</p><p>Adding your projects or joining existing ones is as simple as contributing to our GitHub repository. Just add your markdown files to the <code>projects</code> directory, and they'll be showcased here for everyone to see, discuss, and collaborate on.</p><p>We believe in the power of community-driven development. Regular contributors and project leads can be added to <code>authors.yml</code>, giving them a special place in our community's hall of fame.</p><p>Our platform is designed to be intuitive and straightforward. For instance, the date of a blog post or project update can be easily inferred from filenames, like:</p><ul><li><code>2023-10-15-new-feature.md</code></li><li><code>2023-10-15-new-feature/index.md</code></li></ul><p>And if you're wondering about adding visuals to your posts, it's a breeze! If you're writing about a project or feature, simply add relevant images to the post's folder:</p><p><img loading="lazy" alt="GitProve Logo" src="/assets/images/gitprove-logo-3e999de344fe54faa910dad108ba0583.png" width="1024" height="1024" class="img_ev3q"></p><p>We're also big fans of tags! They help categorize and navigate through the plethora of projects and discussions we'll have here.</p><p>Thank you for being a part of GitProve. Together, let's craft, converse, and evolve.</p>]]></content>
         <author>
             <name>Pawel Kowalewski</name>
             <uri>https://github.com/KowalewskiPawel</uri>
