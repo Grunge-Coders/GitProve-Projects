@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Welcome to GitProve!
+title: 👋 Welcome to GitProve!
 ---
 
 # 👋 Welcome to GitProve!
