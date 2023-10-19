@@ -7,6 +7,10 @@ sidebar_position: 4
 
 Welcome to **GitProve**! If you're new here, this guide will walk you through the essential steps to get started, ensuring you make the most of what our community has to offer.
 
+## 0. Read and accept our Code of Conduct and Privacy Policy
+
+Before you start your journey, ensure you've read and agreed to our [Code of Conduct](https://github.com/Git-Prove/GitProve-Projects/blob/f68aa9d522aad555045a027b08a8e9ff066d0d63/CODE_OF_CONDUCT.md) and [Privacy Policy](https://gitprove.xyz/docs/privacy-policy).
+
 ## 1. Create or Sign In to Your GitHub Account
 
 Before you can participate in GitProve, you'll need a GitHub account.
@@ -25,23 +29,23 @@ To be an active member of GitProve:
 
 Introduce yourself to the community:
 
-1. In the GitProve repository, navigate to the `members` directory.
-2. Create a new markdown file with your GitHub username (e.g., `yourusername.md`).
+1. On the [GitProve Discussions](https://github.com/orgs/Git-Prove/discussions), navigate to the `Introductions` section.
+2. The topic can be found [here](https://github.com/orgs/Git-Prove/discussions/3)
 3. Add a brief introduction about yourself, your skills, and interests.
 
-## 4. Engage in Discussions
+## 4. Propose or Join a Project
+
+GitProve is all about projects. You can either:
+
+- Propose a new project using the [Project Proposal Template](/docs/project-proposal-template).
+- Browse existing projects and join one that aligns with your interests (by checking the open PRs or topics on the GitProve Discussion group)
+
+## 5. Engage in Discussions
 
 Join the conversation and connect with fellow members:
 
 - Visit the [GitProve Discussions](https://github.com/orgs/Git-Prove/discussions) to ask questions, share ideas, or offer feedback.
 - Engage actively, provide constructive feedback, and help others when you can.
-
-## 5. Propose or Join a Project
-
-GitProve is all about projects. You can either:
-
-- Propose a new project using the [Project Proposal Template](/docs/Introduction/project-proposal-template).
-- Browse existing projects and join one that aligns with your interests.
 
 ## 6. Stay Updated
 

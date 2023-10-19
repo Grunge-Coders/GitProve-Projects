@@ -16,7 +16,7 @@ At GitProve, collaboration is the cornerstone of innovation. This space is desig
 
 ## Initiating a New Project
 
-1. **Craft a Proposal**: Start by detailing your idea using the [Project Proposal Template](#).
+1. **Craft a Proposal**: Start by detailing your idea using the [Project Proposal Template](/docs/project-proposal-template).
 2. **Assemble Your Crew**: Post your approved project on the [GitProve Discussions Board](https://github.com/orgs/Git-Prove/discussions) to attract like-minded collaborators.
 3. **Set Clear Objectives**: Clearly outline what you aim to achieve, the milestones, and expected outcomes.
 4. **Consistent Communication**: Organize regular check-ins to ensure alignment, discuss challenges, and strategize the next steps.

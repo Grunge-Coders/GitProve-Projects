@@ -19,7 +19,7 @@ Embarking on a project with **GitProve** is an exciting journey of collaboration
 ## 2. Proposal Submission
 
 ### 2.1 Use the Template
-- Fill out the [Project Proposal Template](/docs/Introduction/project-proposal-template) with all relevant details.
+- Fill out the [Project Proposal Template](/docs/project-proposal-template) with all relevant details.
 - Be as detailed and clear as possible to facilitate the review process.
 
 ### 2.2 Await Feedback

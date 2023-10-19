@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+title: "Project Proposal Template"
 ---
 
 # Project Proposal Template
@@ -9,6 +9,18 @@ Thank you for considering starting a new project with **GitProve**! To ensure cl
 ## Project Title
 
 [Provide a concise and descriptive title for your project.]
+
+## Project Categories
+
+- [ ] Web Development
+- [ ] Mobile Apps
+- [ ] Data Science & AI
+- [ ] Game Development
+- [ ] IoT & Hardware
+- [ ] Open Source Contributions
+- [ ] Research & Innovation
+
+[Select the ones that apply to your project]
 
 ## Project Type
 
@@ -31,6 +43,9 @@ Thank you for considering starting a new project with **GitProve**! To ensure cl
 ## Technologies/Tools
 
 [List the technologies, languages, frameworks, or tools you plan to use for this project.]
+
+## GitHub Repository
+[Provide the link to the GitHub repository where the project will be built. This is mandatory.]
 
 ## Proposed Timeline
 

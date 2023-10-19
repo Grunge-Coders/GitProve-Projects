@@ -12,7 +12,7 @@ At GitProve, we celebrate the diversity of ideas and the myriad of ways they can
 - **Example Projects**: Portfolio websites, e-commerce platforms, blogs.
 - **Key Technologies**: HTML, CSS, JavaScript, React, Node.js.
 
-## 2. **Mobile Development**
+## 2. **Mobile Apps**
 - **Description**: Projects centered around creating applications for mobile devices.
 - **Example Projects**: Mobile games, productivity apps, social media apps.
 - **Key Technologies**: Swift, Kotlin, Flutter, React Native.

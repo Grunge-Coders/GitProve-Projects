@@ -29,7 +29,7 @@ Once you have a clear plan, it's time to submit your project proposal.
 
 ### Draft Your Proposal
 
-Using the [Project Proposal Template](/docs/Introduction/project-proposal-template), outline your project's details. Ensure you cover the objective, expected outcome, technologies involved, and proposed timeline.
+Using the [Project Proposal Template](/docs/project-proposal-template), outline your project's details. Ensure you cover the objective, expected outcome, technologies involved, and proposed timeline.
 
 ### Submit for Review
 

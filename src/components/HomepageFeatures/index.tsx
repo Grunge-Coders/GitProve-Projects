@@ -2,6 +2,21 @@ import React from "react";
 import clsx from "clsx";
 import styles from "./styles.module.css";
 
+
+
+const sortItems = (newSortItems) => {
+  const { sort, field } = newSortItems[0];
+  const isSameField = sorting.some(({ sortBy }) => sortBy === field);
+  const newSorting = [
+    { sortBy: field, ascending: sort === 'asc' }
+  ];
+  if (isSameField && sorting.length === 1) {
+    // do nothing
+  } else {
+    newSorting.push(sorting[isSameField ? 1 : 0]);
+  }
+}
+
 type FeatureItem = {
   title: string;
   Svg: React.ComponentType<React.ComponentProps<"svg">>;

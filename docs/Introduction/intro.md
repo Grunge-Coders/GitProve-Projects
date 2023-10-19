@@ -28,7 +28,7 @@ For a comprehensive understanding of how to navigate and make the most of GitPro
 
 - **[Why Join GitProve?](/docs/Introduction/why-gitprove)**: Discover the unique value proposition of our community.
 - **[Starting a New Project](/docs/Introduction/start-a-project)**: A step-by-step guide to kickstart your project journey.
-- **[Project Proposal Template](/docs/Introduction/project-proposal-template)**: Structure your project ideas for submission.
+- **[Project Proposal Template](/docs/project-proposal-template)**: Structure your project ideas for submission.
 - **[Detailed Project Guide](/docs/Introduction/detailed-project-guide)**: An in-depth guide covering the entire project lifecycle.
 - **[Getting Started Guide](/docs/Introduction/getting-started)**: A roadmap for newcomers to become active members of the community.
 
