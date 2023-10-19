@@ -89,6 +89,10 @@ const config = {
                 label: 'Projects',
                 to: '/docs/welcome',
               },
+              {
+                label: 'Privacy Policy',
+                to: '/docs/privacy-policy',
+              },
             ],
           },
           {
