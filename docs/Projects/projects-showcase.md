@@ -9,7 +9,7 @@ Welcome to the GitProve Projects Showcase! This is where we spotlight the incred
 
 ## Featured Projects
 
-### 1. **Dziknik**
+### 0. **Dziknik**
 #### **Description**:
  Dziknik is a platform tailored for fitness enthusiasts, allowing them to log exercises, create personalized training plans, and share them with the community. Users can also collaborate on creating team-based training routines, set goals, and track their progress over time. The app will also feature a leaderboard for friendly competition and motivation.
 #### **Technologies Used**: 
