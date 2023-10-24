@@ -1,6 +1,6 @@
 ## Project Title
 
-**SportifyMe: Your Personalized Exercise & Training Planner**
+**Dziknik: Your Personalized Exercise & Training Planner**
 
 ## Project Categories
 
@@ -12,7 +12,7 @@
 
 ## Project Description
 
-SportifyMe is a platform tailored for fitness enthusiasts, allowing them to log exercises, create personalized training plans, and share them with the community. Users can also collaborate on creating team-based training routines, set goals, and track their progress over time. The app will also feature a leaderboard for friendly competition and motivation.
+Dziknik is a platform tailored for fitness enthusiasts, allowing them to log exercises, create personalized training plans, and share them with the community. Users can also collaborate on creating team-based training routines, set goals, and track their progress over time. The app will also feature a leaderboard for friendly competition and motivation.
 
 ## Objective
 
@@ -35,7 +35,7 @@ To provide a comprehensive platform for individuals and teams to plan, track, an
 
 ## GitHub Repository
 
-[https://github.com/KowalewskiPawel/SportifyMe](https://github.com/KowalewskiPawel/SportifyMe)
+[https://github.com/KowalewskiPawel/dziknik](https://github.com/KowalewskiPawel/dziknik)
 
 ## Proposed Timeline
 
