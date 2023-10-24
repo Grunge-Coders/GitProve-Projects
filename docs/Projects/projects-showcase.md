@@ -26,8 +26,8 @@ Welcome to the GitProve Projects Showcase! This is where we spotlight the incred
 <br/>
 
 #### **Contributors**: 
-- @KowalewskiPawel (Backend Developer & Database Manager)
-- @pwierzbieniec (Frontend Developer & UI Designer)
+- [@KowalewskiPawel]((https://github.com/KowalewskiPawel/Dziknik/commits?author=KowalewskiPawel)) (Backend Developer & Database Manager)
+- [@pwierzbieniec](https://github.com/KowalewskiPawel/Dziknik/commits?author=pwierzbieniec) (Frontend Developer & UI Designer)
 
 #### URLs:
 
