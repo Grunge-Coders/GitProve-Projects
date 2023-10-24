@@ -9,27 +9,37 @@ Welcome to the GitProve Projects Showcase! This is where we spotlight the incred
 
 ## Featured Projects
 
-### 1. **ProjectNameOne**
-- **Description**: A brief overview of what the project is about.
-- **Technologies Used**: List of tech/tools used.
-- **Contributors**: @username1, @username2
-- **[Link to Project](#)**
+### 1. **Dziknik**
+#### **Description**:
+ Dziknik is a platform tailored for fitness enthusiasts, allowing them to log exercises, create personalized training plans, and share them with the community. Users can also collaborate on creating team-based training routines, set goals, and track their progress over time. The app will also feature a leaderboard for friendly competition and motivation.
+#### **Technologies Used**: 
 
-### 2. **ProjectNameTwo**
-- **Description**: A brief overview of what the project is about.
-- **Technologies Used**: List of tech/tools used.
-- **Contributors**: @username1, @username2
-- **[Link to Project](#)**
+- Node.js
+- Express.js
+- PostgreSQL (For storing user profiles, exercises, training plans, and progress logs)
+- bcrypt (For password hashing)
+- jsonwebtoken (For handling JWTs)
+- React (with Hooks and Context API)
+- TypeScript
+- Vite (as the build tool and dev server)
+- Tailwind CSS (for styling) / Material UI
+<br/>
 
-... [more projects]
+#### **Contributors**: 
+- @KowalewskiPawel (Backend Developer & Database Manager)
+- @pwierzbieniec (Frontend Developer & UI Designer)
+
+#### URLs:
+
+- **[Dziknik GitHub Repository](https://github.com/KowalewskiPawel/Dziknik)**
 
 ## Explore More
 
-Looking for more projects to explore or join? Head over to our [Projects Directory](#) to browse through a comprehensive list of all ongoing and completed projects.
+Looking for more projects to explore or join? Head over to our [Projects Pull Requests](https://github.com/Git-Prove/GitProve-Projects/pulls) to browse through a comprehensive list of all ongoing and completed projects.
 
 ## Submit Your Project
 
-Proud of a project you've completed on GitProve? Want to showcase it to the community? Submit your project for a chance to be featured in our Projects Showcase! Check out the [Project Submission Guidelines](#) for more details.
+Proud of a project you've completed on GitProve? Want to showcase it to the community? Submit your project for a chance to be featured in our Projects Showcase! Check out the [Project Submission Guidelines](/docs/Introduction/detailed-project-guide) for more details.
 
 ---
 
