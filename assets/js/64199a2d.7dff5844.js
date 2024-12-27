@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgit_prove_projects=self.webpackChunkgit_prove_projects||[]).push([[771],{1509:e=>{e.exports=JSON.parse('{"label":"gitprove","permalink":"/blog/tags/gitprove","allTagsPath":"/blog/tags","count":1}')}}]);
